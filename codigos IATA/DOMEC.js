@@ -1,0 +1,1 @@
+const DOMEC = ['GPS', 'CUE', 'GYE', 'MEC', 'UIO', 'SCY'];

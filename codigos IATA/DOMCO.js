@@ -1,0 +1,1 @@
+const DOMCO = ['AUC', 'AXM', 'EJA', 'BAQ', 'BOG', 'BGA', 'CLO', 'CTG', 'CUC', 'FLA', 'GPI', 'IBE', 'IPI', 'LET', 'MZL', 'MDE', 'MTR', 'NVA', 'PSO', 'PEI', 'PTX', 'PPN', 'PUU', 'UIB', 'RCH', 'ADZ', 'SJE', 'SMR', 'TCO', 'VUP', 'VVC', 'EYP'];
