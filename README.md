@@ -20,7 +20,3 @@ Especificar licencia según los requerimientos del proyecto.
 ## 👥 Autores
 
 Equipo de evolutivos - Avianca
-
-## 📞 Contacto
-
-Para preguntas o issues, contacta al equipo de desarrollo.
