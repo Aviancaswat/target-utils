@@ -11,11 +11,7 @@ Este repositorio centraliza funcionalidades reutilizables para operaciones relac
 Para contribuir a este proyecto:
 1. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
 2. Realiza tus cambios
-3. Envía un pull request
-
-## 📄 Licencia
-
-Especificar licencia según los requerimientos del proyecto.
+3. Envía un pull request 
 
 ## 👥 Autores
 
